@@ -22,7 +22,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/verhichi/webpack-sandbox">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <!-- TODO: Replace Logo -->
+    <img src=".github/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Webpack Sandbox</h3>
@@ -59,6 +60,8 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
+<!-- TODO: Replace Screenshot -->
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -174,7 +177,7 @@ Project Link: [https://github.com/verhichi/webpack-sandbox](https://github.com/v
 [license-url]: https://github.com/verhichi/webpack-sandbox/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daichi-nishida/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: .github/images/screenshot.png
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
 [vite.js]: https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF
