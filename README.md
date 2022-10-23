@@ -31,13 +31,6 @@
     Play around with webpack settings to learn more about webpack!
     <br />
     <a href="https://github.com/verhichi/webpack-sandbox"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/verhichi/webpack-sandbox">View Demo</a>
-    ·
-    <a href="https://github.com/verhichi/webpack-sandbox/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/verhichi/webpack-sandbox/issues">Request Feature</a>
   </p>
 </div>
 
@@ -53,10 +46,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -84,6 +73,9 @@ This sandbox application aims to allow users to play around with webpack while l
 - [![React][react.js]][react-url]
 - [![Vite][vite.js]][vite-url]
 - [![Webpack][webpack]][webpack-url]
+- [![ESLint][eslint]][eslint-url]
+- [![Styleint][stylelint]][stylelint-url]
+- [![Prettier][prettier]][prettier-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,3 +181,9 @@ Project Link: [https://github.com/verhichi/webpack-sandbox](https://github.com/v
 [vite-url]: https://vitejs.dev/
 [webpack]: https://img.shields.io/badge/Webpack-20232A?style=for-the-badge&logo=webpack&logoColor=8DD6F9
 [webpack-url]: https://webpack.js.org/
+[eslint]: https://img.shields.io/badge/ESLint-20232A?style=for-the-badge&logo=eslint&logoColor=4B32C3
+[eslint-url]: https://eslint.org/
+[stylelint]: https://img.shields.io/badge/stylelint-20232A?style=for-the-badge&logo=stylelint&logoColor=263238
+[stylelint-url]: https://stylelint.io/
+[prettier]: https://img.shields.io/badge/Prettier-20232A?style=for-the-badge&logo=prettier&logoColor=F7B93E
+[prettier-url]: https://prettier.io/
