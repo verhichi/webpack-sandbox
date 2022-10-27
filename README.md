@@ -73,12 +73,17 @@ This sandbox application aims to allow users to play around with webpack while l
 
 ### Built With
 
-- [![React][react.js]][react-url]
-- [![Vite][vite.js]][vite-url]
-- [![Webpack][webpack]][webpack-url]
-- [![ESLint][eslint]][eslint-url]
-- [![Styleint][stylelint]][stylelint-url]
-- [![Prettier][prettier]][prettier-url]
+- Front
+  - [![React][react.js]][react-url]
+  - [![Vite][vite.js]][vite-url]
+  - [![Styleint][stylelint]][stylelint-url]
+- Server
+  - [![NestJS][nest.js]][nest-url]
+- Common
+  - [![TypeScript][typescript]][typescript-url]
+  - [![Webpack][webpack]][webpack-url]
+  - [![ESLint][eslint]][eslint-url]
+  - [![Prettier][prettier]][prettier-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,6 +187,10 @@ Project Link: [https://github.com/verhichi/webpack-sandbox](https://github.com/v
 [react-url]: https://reactjs.org/
 [vite.js]: https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF
 [vite-url]: https://vitejs.dev/
+[nest.js]: https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E
+[nest-url]: https://nestjs.com/
+[typescript]: https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6
+[typescript-url]: https://www.typescriptlang.org/
 [webpack]: https://img.shields.io/badge/Webpack-20232A?style=for-the-badge&logo=webpack&logoColor=8DD6F9
 [webpack-url]: https://webpack.js.org/
 [eslint]: https://img.shields.io/badge/ESLint-20232A?style=for-the-badge&logo=eslint&logoColor=4B32C3
