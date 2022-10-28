@@ -120,9 +120,7 @@ Use this app to learn more about webpack.
 
 ## Roadmap
 
-- [ ] Create Roadmap
-
-See the [open issues](https://github.com/verhichi/webpack-sandbox/issues) for a full list of proposed features (and known issues).
+- I am managing my roadmap and tasks with Github Project(feel free to check it out): https://github.com/users/verhichi/projects/2/views/1
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
