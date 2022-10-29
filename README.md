@@ -87,6 +87,16 @@ This sandbox application aims to allow users to play around with webpack while l
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Built For
+
+This app will only be tested in the environment listed below:
+
+- OS: [![Windows][windows]][windows-url]
+- Browser: [![chrome][chrome]][chrome-url]
+- Device: PC only(1920x1080)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -188,6 +198,10 @@ Project Link: [https://github.com/verhichi/webpack-sandbox](https://github.com/v
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daichi-nishida/
 [product-screenshot]: .github/images/screenshot.png
+[windows]: https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=0078D6
+[windows-url]: https://www.microsoft.com/ja-jp/software-download/windows10
+[chrome]: https://img.shields.io/badge/Chrome-20232A?style=for-the-badge&logo=googlechrome&logoColor=4285F4
+[chrome-url]: https://www.google.com/chrome/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
 [vite.js]: https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF
