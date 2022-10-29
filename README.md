@@ -102,9 +102,16 @@ $ npm ci
 2. Start up dev server
 
 ```bash
-# this will start up the app at http://localhost:3000
-$ npm dev
+# this will start up the backend server on watch-mode at http://localhost:8080
+$ npm start:server
 ```
+
+```bash
+# this will start up the frontend dev server at http://localhost:3000
+$ npm start:front
+```
+
+3. Open `http://localhost:3000` on browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
