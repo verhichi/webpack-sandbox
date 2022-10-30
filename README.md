@@ -63,7 +63,7 @@
 
 <!-- TODO: Replace Screenshot -->
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/verhichi/webpack-sandbox)
 
 Webpack has been an essential part of frontend development for years now. Though essential, its configuration still to this day confuses many engineers, especially with all the different types of third party libraries and frameworks that obfuscates all the settings within its own webpack configuration files.
 
@@ -138,6 +138,10 @@ Use this app to learn more about webpack.
 ## Roadmap
 
 - I am managing my roadmap and tasks with Github Project(feel free to check it out): https://github.com/users/verhichi/projects/2/views/1
+
+I listed out all the tasks I think I needed and then grouped them by target date
+
+![github-project](./.github/images/ghproject-grouped-by-target.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
