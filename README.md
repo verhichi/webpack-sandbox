@@ -1,4 +1,4 @@
-(A project I used to demonstrate task creation/management to a colleague)
+(A project I used to demonstrate task creation/management to a colleague; assumes creation of a webpack sandbox tool)
 
 <!-- Original template at: https://github.com/othneildrew/Best-README-Template -->
 
